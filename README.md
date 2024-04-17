@@ -1,4 +1,4 @@
-# SAT_Digital
+# SAT_Math_Digital
 
 ![alt text](image.png)
 
